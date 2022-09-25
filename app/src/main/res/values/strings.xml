@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RadioButtons</string>
+    <string name="txtPregunta">¿Cuál es el mejor videojuego?</string>
+    <string name="txtEleccion">A ver cuál escoges...</string>
+    <string name="txtFallout">FallOut 4</string>
+    <string name="txtLosSims">Sims 4</string>
+    <string name="txtLol">Lol</string>
+    <string name="txtTheWitcher">The Witcher 3</string>
+    <string name="txtEncuesta">¿Te gusta la encuesta?</string>
+    <string name="txtGustar">Veo que te gusta el</string>
+    <string name="txtNoTeGusta">¡¿No te molan!?</string>
+    <string name="txtSiTeGusta">¡Sí que te mola!</string>
+</resources>
